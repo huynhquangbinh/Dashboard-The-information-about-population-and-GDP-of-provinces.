@@ -1,9 +1,12 @@
-# Dashboard-The-information-about-population-and-GDP-of-provinces.</br>
-Thu thập dữ liệu từ 2 trang web 
-Wikipedia link of provinces and cities: https://vi.wikipedia.org/wiki/T%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam </br>
-Link đầu tiên: Sau khi thu thập dữ liệu link đầu tiên chúng ta sẽ được danh sách tỉnh thành
+# Dashboard-The-information-about-population-and-GDP-of-provinces.  
+Data collection from 2 websites  
 
-Link Wiki GDP: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP </br>
-Link thứ hai: Sau khi thu thập dữ liệu link thứ hai chúng ta sẽ được Danh sách đơn vị hành chính Việt Nam theo GRDP
+Wikipedia link of provinces and cities: [https://en.wikipedia.org/wiki/Provinces_of_Vietnam](https://en.wikipedia.org/wiki/Provinces_of_Vietnam)  
 
-Sau khi kết hợp 2 bộ dữ liệu thu thập từ web ta xây dựng được dashboard-The-information-about-population-and-GDP-of-provinces
+First Link: After collecting data from the first link, we will obtain a list of provinces and cities  
+
+Wiki GDP Link: [https://en.wikipedia.org/wiki/List_of_administrative_divisions_of_Vietnam_by_GRDP](https://en.wikipedia.org/wiki/List_of_administrative_divisions_of_Vietnam_by_GRDP)  
+
+Second Link: After collecting data from the second link, we will obtain a list of administrative units in Vietnam according to GRDP  
+
+After combining the data collected from the web, we can construct the dashboard-The-information-about-population-and-GDP-of-provinces
